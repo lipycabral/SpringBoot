@@ -1,4 +1,4 @@
-package br.com.fztn;
+package br.com.fztn.Greeting;
 
 import java.util.concurrent.atomic.AtomicLong;
 
