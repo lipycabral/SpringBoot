@@ -1,4 +1,4 @@
-package br.com.fztn.Exception;
+package br.com.fztn.Calculator.Exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

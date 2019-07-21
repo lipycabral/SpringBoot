@@ -1,4 +1,4 @@
-package br.com.fztn.Exception;
+package br.com.fztn.Calculator.Exception;
 
 import java.io.Serializable;
 import java.util.Date;

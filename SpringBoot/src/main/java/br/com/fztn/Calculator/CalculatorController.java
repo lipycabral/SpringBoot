@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.fztn.Exception.MathInvalid;
+import br.com.fztn.Calculator.Exception.MathInvalid;
 
 @RestController
 public class CalculatorController {
